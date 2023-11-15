@@ -1,7 +1,18 @@
 #  Final Thesis
 
+The aim of this study is to delve into the concept of internet addiction through a game that explores the potential impact of gameplay and narrative on an individual's well-being and behaviour. I developed a game that aims to evoke players to think about internet addiction and inspire them to take positive action.
+
+Throughout my whole dissertation project, I have maintained good communication with my supervisor, Tom. The help of my supervisor provided valuable guidance and advice on the various challenges I encountered during the project. Here, I would like to give special thanks to my supervisor Tom.
+
+Through this comprehensive project, I not only learnt specific skills in game development, but also developed my project management and dissertation writing skills. The whole process has given me a better understanding of how theoretical knowledge can be applied in practice and has enabled me to make significant progress in my academic field. This experience has been a major boost to my future academic and professional development.
+
+ <br />
+
 ## Weekly Journal
 
+This 20-week project log details my entire project production process from July 2023 until November. During the summer term I focused on the production phase of the game, whilst during the autumn term I focused on the dissertation. This project provided me with a well-rounded academic experience covering a variety of aspects of game development, project management and dissertation research.
+
+ <br />
 
 ## 1.Summer term
 
