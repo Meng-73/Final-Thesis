@@ -99,3 +99,40 @@ Inject more sound elements into the game, including the sound of wind and heartb
 Optimise the game's performance, including graphics and smoothness. Export and share the game with friends for trial play and actively collect their feedback. My friends' suggestions mainly focused on the improvement of the game experience, especially the enhancement of sound effects. Based on the feedback, I decided to add more sound effects, such as game failure and portal sound effects, and successfully integrated new sound elements through script tweaks. I also added a game start screen to make the overall experience richer. This week's work was aimed at polishing the game and ensuring an even better experience for the player through careful optimisation and feedback fixes.
 
 <img  src="https://github.com/Meng-73/Final-Thesis/blob/main/Image/24.png"  width="50%">
+
+#### Week 14: Supervisor meeting on thesis writing
+
+In the third meeting with my supervisor, I listened to my supervisor's advice and gained important guidance on writing my dissertation. My supervisor provided me with clear directions and key points to support the subsequent writing of my dissertation.
+
+
+#### Week 15: Thesis writing continues
+
+Following my tutor's advice and guidance, I invested a significant amount of time in reading and understanding the relevant literature, as well as beginning to write the abstract, introduction and literature review sections of my dissertation. I have carefully cited previous research to provide a solid theoretical foundation for my dissertation.
+
+<img  src="https://github.com/Meng-73/Final-Thesis/blob/main/Image/27.png"  width="50%">
+
+
+#### Week 16: First draft of thesis writing and supervisor  meetings
+
+The first draft was submitted to my supervisor for an initial review and received feedback from my supervisor in the fourth supervisor meeting. The tutor emphasised the importance of further refining the writing points for the methodology and experimental sections, and I decided to adopt the research methodology of questionnaires and participant observation. The week's work was aimed at ensuring coherence and depth in all parts of the thesis.
+
+
+#### Week 17: Questionnaire release and initial analysis
+
+Begin designing the questionnaire, clearly defining the questions and ensuring that they cover the core directions of the study. Release the questionnaire and actively collect responses from participants. At the same time, embark on a preliminary analysis of the collected data in order to better understand the overall player feedback on the game and the research topic.
+
+<img  src="https://github.com/Meng-73/Final-Thesis/blob/main/Image/28.png"  width="50%">
+
+
+#### Week 18: Completion of the first draft of the thesis and supervisor feedback
+
+Continued to progress with the dissertation, particularly the results, analysis and discussion, and conclusion sections. I debriefed with my supervisor on the progress of the project and received further guidance on the content of the thesis, revising it accordingly based on the supervisor's feedback.
+
+#### Week 19: Final Draft of Dissertation and Video Production
+
+Work on refining the final draft of the thesis to ensure that it is logically clear and accurately presented. At the same time, start recording the video introducing the project, preparing to highlight the highlights of the project, focusing on the design of the game and the practical value of the research.
+
+
+#### Week 20: Final Project Refinement and Wrap-Up
+
+During this week, I worked on completing the final version of my dissertation and project report by carefully organising everything that needed to be submitted. This week was spent wrapping up the entire project and making sure that every detail was properly taken care of.
