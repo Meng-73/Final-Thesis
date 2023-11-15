@@ -1,5 +1,9 @@
 #  Final Thesis
 
+Here's the video presentation of my project:
+
+ <br />
+ 
 The aim of this study is to delve into the concept of internet addiction through a game that explores the potential impact of gameplay and narrative on an individual's well-being and behaviour. I developed a game that aims to evoke players to think about internet addiction and inspire them to take positive action.
 
 Throughout my whole dissertation project, I have maintained good communication with my supervisor, Tom. The help of my supervisor provided valuable guidance and advice on the various challenges I encountered during the project. Here, I would like to give special thanks to my supervisor Tom.
