@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 
 
-//字幕管理器（字幕1）
+//subtitle all
 [System.Serializable]
 public struct Subtitle
 {
