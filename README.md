@@ -34,7 +34,7 @@ I began to delve into the literature and statistics related to internet addictio
 
 ### Week 3: Initial Game Design and Material Preparation
 
-Created the project in Unity and started the game design. Created some basic 3D models. 
+Created the project in Unity and started the game design. I created some basic 3D models using Blender.
 
 <img  src="https://github.com/Meng-73/Final-Thesis/blob/main/Image/6.png"  width="27.9%"><img  src="https://github.com/Meng-73/Final-Thesis/blob/main/Image/4.png"  width="34%">
 
