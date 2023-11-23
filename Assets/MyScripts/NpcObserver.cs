@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-//场景1中被机器人发现就游戏失败
+//scene 1 robot observe
 public class NpcObserver : MonoBehaviour
 {
     public GameObject gameOverPanel;
@@ -40,8 +40,7 @@ public class NpcObserver : MonoBehaviour
             gameOver = true;
 
             FindObjectOfType<AudioManager>().PlaySound("GameOver");
-            //播放游戏结束音频
-            //所有声音播放都用这句代码
+            //play game over sound
         }
     }
 
