@@ -2,7 +2,7 @@
 using UnityEngine;
 
 
-//场景2中的卡通资源小人
+//scene 2 player
 public class SimpleSampleCharacterControl : MonoBehaviour
 {
     private enum ControlMode
