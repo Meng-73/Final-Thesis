@@ -116,7 +116,7 @@ Gameplay elements were enriched in the second scenario by introducing more model
  
 ### Week 11: Scene 2 Subtitle Design
 
-The subtitle element is introduced in the second scene, which is scripted to display subtitles at key moments, adding to the narrative experience of the game. The subtitle content is closely centred on the theme, guiding players to think about the subtle relationship between internet addiction and happiness, further enhancing the game's thoughtfulness and emotional resonance.
+The subtitle element is introduced in the second scene, which is scripted to display subtitles at key moments, adding to the narrative experience of the game. The subtitle content is closely centered on the theme, guiding players to think about the subtle relationship between internet addiction and happiness, further enhancing the game's thoughtfulness and emotional resonance.
 
 <img  src="https://github.com/Meng-73/Final-Thesis/blob/main/Image/22.png"  width="50%">
 
