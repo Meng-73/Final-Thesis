@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
-//场景1、2，NPC随机移动
+//scene 1 2 npc movement
 public class NPCMovement : MonoBehaviour
 {
     public float wanderRadius = 10f;
