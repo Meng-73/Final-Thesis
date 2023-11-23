@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 
-//开始菜单，加载场景1，点击按钮
+//start menu
 public class Events : MonoBehaviour
 {
     public void ReplayGame()
