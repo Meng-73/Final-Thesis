@@ -34,13 +34,18 @@ I began to delve into the literature and statistics related to internet addictio
 
 ### Week 3: Initial Game Design and Material Preparation
 
-Created the project in Unity and started the game design. Created some basic 3D models, and for efficiency, I also downloaded some city models, character models and other resources such as buildings and cars from the Unity Asset Store. These resources provided the basis for my subsequent game scene building.
+Created the project in Unity and started the game design. Created some basic 3D models. 
+
+<img  src="https://github.com/Meng-73/Final-Thesis/blob/main/Image/6.png"  width="27.9%"><img  src="https://github.com/Meng-73/Final-Thesis/blob/main/Image/4.png"  width="34%">
+
+
+For efficiency, I also downloaded some city models, character models and other resources such as buildings and cars from the Unity Asset Store. These resources provided the basis for my subsequent game scene building.
 
 Importing the downloaded 3D models and created models into Scene One and adjusting their size and position to fit the game scene ensured that the individual models loaded and ran correctly in the game. The goal of this week was to lay a solid foundation for the visual presentation of the game through the preparation of the material.
 
-<img  src="https://github.com/Meng-73/Final-Thesis/blob/main/Image/1.png"  width="30%"><img  src="https://github.com/Meng-73/Final-Thesis/blob/main/Image/2.png"  width="29%"><img  src="https://github.com/Meng-73/Final-Thesis/blob/main/Image/3.png"  width="32.2%">
+<img  src="https://github.com/Meng-73/Final-Thesis/blob/main/Image/1.png"  width="30%"><img  src="https://github.com/Meng-73/Final-Thesis/blob/main/Image/2.png"  width="29%">
 
-<img  src="https://github.com/Meng-73/Final-Thesis/blob/main/Image/4.png"  width="34%"><img  src="https://github.com/Meng-73/Final-Thesis/blob/main/Image/5.png"  width="33.2%"><img  src="https://github.com/Meng-73/Final-Thesis/blob/main/Image/6.png"  width="27.9%">
+<img  src="https://github.com/Meng-73/Final-Thesis/blob/main/Image/3.png"  width="32.2%"><img  src="https://github.com/Meng-73/Final-Thesis/blob/main/Image/5.png"  width="35.3%">
 
 <img  src="https://github.com/Meng-73/Final-Thesis/blob/main/Image/25.png"  width="80%">
 
