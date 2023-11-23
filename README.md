@@ -158,13 +158,15 @@ Following my tutor's advice and guidance, I invested a significant amount of tim
 
 The first draft was submitted to my supervisor for an initial review and received feedback from my supervisor in the fourth supervisor meeting. The tutor emphasised the importance of further refining the writing points for the methodology and experimental sections, and I decided to adopt the research methodology of questionnaires and participant observation. The week's work was aimed at ensuring coherence and depth in all parts of the thesis.
 
+<img  src="https://github.com/Meng-73/Final-Thesis/blob/main/Image/28.png"  width="60%">
+
  <br />
  
 ### Week 17: Questionnaire release and initial analysis
 
 Begin designing the questionnaire, clearly defining the questions and ensuring that they cover the core directions of the study. Release the questionnaire and actively collect responses from participants. At the same time, embark on a preliminary analysis of the collected data in order to better understand the overall player feedback on the game and the research topic.
 
-<img  src="https://github.com/Meng-73/Final-Thesis/blob/main/Image/28.png"  width="50%">
+<img  src="https://github.com/Meng-73/Final-Thesis/blob/main/Image/29.png"  width="50%">
 
  <br />
 
