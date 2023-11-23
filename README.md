@@ -12,7 +12,7 @@ Through this comprehensive project, I not only learnt specific skills in game de
 
  <br />
 
-## Weekly Journal
+## Weblog
 
 This 20-week project log details my entire project production process from July 2023 until November. During the summer term I focused on the production phase of the game, whilst during the autumn term I focused on the dissertation. This project provided me with a well-rounded academic experience covering a variety of aspects of game development, project management and dissertation research.
 
