@@ -3,8 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-//所有场景的声音设置
-//（没有游戏物体，为了给AudioManager代码做设定）
+//sound setting
 
 [System.Serializable]
 public class Sounds 
