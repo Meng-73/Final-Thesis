@@ -2,8 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-//场景中的声音（场景1，2）
-//两个场景的基础设置，具体设置直接在面板中
+//sounds in scene 1 2
 public class AudioManager : MonoBehaviour
 {
 
