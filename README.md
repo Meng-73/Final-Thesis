@@ -166,13 +166,13 @@ The first draft was submitted to my supervisor for an initial review and receive
 
 Begin designing the questionnaire, clearly defining the questions and ensuring that they cover the core directions of the study. Release the questionnaire and actively collect responses from participants. At the same time, embark on a preliminary analysis of the collected data in order to better understand the overall player feedback on the game and the research topic.
 
-<img  src="https://github.com/Meng-73/Final-Thesis/blob/main/Image/29.png"  width="50%">
-
  <br />
 
 ### Week 18: Completion of the first draft of the thesis and supervisor feedback
 
 Continued to progress with the dissertation, particularly the results, analysis and discussion, and conclusion sections. I debriefed with my supervisor on the progress of the project and received further guidance on the content of the thesis, revising it accordingly based on the supervisor's feedback.
+
+<img  src="https://github.com/Meng-73/Final-Thesis/blob/main/Image/29.png"  width="50%">
 
  <br />
  
