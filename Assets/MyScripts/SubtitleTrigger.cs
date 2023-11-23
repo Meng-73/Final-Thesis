@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 
 
-//字幕2、3，立方体触发器
+//subtitle
 public class SubtitleTrigger : MonoBehaviour
 {
     [System.Serializable]
