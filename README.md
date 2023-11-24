@@ -1,7 +1,5 @@
 #  Final Thesis
 
-My final thesis is the document titled "Final Thesis-Yixi Meng". 
-
 My code is in the "MyScript" folder in the "Assets" folder.
  
 Here's the video presentation of my project: https://youtu.be/30N4h3pYGTM
